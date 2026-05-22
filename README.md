@@ -1,2 +1,2 @@
-# lyrics-terminal
+# music-in-code
 Music in code
